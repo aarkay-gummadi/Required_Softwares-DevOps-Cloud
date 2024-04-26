@@ -75,4 +75,5 @@ Note:
 ![Preview](Images/soft32.png)
 ![Preview](Images/soft33.png)
 
-THANKS FO READING!
+THANKS FOR READING!
+![Preview](Images/Thank%20you%20.png)
