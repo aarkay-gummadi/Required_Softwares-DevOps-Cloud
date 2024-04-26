@@ -40,6 +40,8 @@ Setting up windows desktop for DevOps and Cloud
 ![Preview](Images/soft15.png)
 ![Preview](Images/soft16.png)
 ![Preview](Images/soft17.png)
+
+* Installing Chocolatey [Refer Here](https://chocolatey.org/install)
 ![Preview](Images/soft18.png)
 ![Preview](Images/soft19.png)
 ![Preview](Images/soft20.png)
@@ -51,7 +53,14 @@ Setting up windows desktop for DevOps and Cloud
 * Now install git, for that open browser and search for choco install git, copy the command and paste it over windows powershell run as an administrator.
 ![Preview](Images/soft23.png)
 
-* Git install using choco.
+* Git and Vscode are installed using choco.
+* Git [Refer Here](https://community.chocolatey.org/packages/git)
+* Vs code [Refer Here](https://community.chocolatey.org/packages/vscode)
+```
+choco --version
+choco install git.install
+choco install vscode 
+```
 ![Preview](Images/soft24.png)
 
 * Go to aws cloud and login into console
@@ -63,6 +72,13 @@ Setting up windows desktop for DevOps and Cloud
 * Open Git Bash and connect to the server using ssh
 ![Preview](Images/soft25.png)
 ![Preview](Images/soft28.png)
+
+* To execute the below commands to install the apache2.
+```
+sudo apt-get update
+sudo apt-get install apache2 -y
+sudo systemctl status apache2
+```
 ![Preview](Images/soft29.png)
 
 * Finally we got the result
