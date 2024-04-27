@@ -1,5 +1,7 @@
 Setting up windows desktop for DevOps and Cloud
 -------------------------------------------------
+![Preview](Images/setup-desktop.png)
+
 ### Required softwares are
 * Chocolatey
 * Git
