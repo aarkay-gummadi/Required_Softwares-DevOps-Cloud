@@ -77,7 +77,7 @@ choco install vscode
 ```
 sudo apt-get update
 sudo apt-get install apache2 -y
-sudo systemctl status apache2
+sudo systemctl status apache2 -y
 ```
 ![Preview](Images/soft29.png)
 
