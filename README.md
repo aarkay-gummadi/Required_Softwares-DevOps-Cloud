@@ -6,6 +6,8 @@ Setting up windows desktop for DevOps and Cloud
 * Chocolatey
 * Git
 * Visual Studio Code
+* mobaxterm
+* vlc
 
 * For the above softwares to be install, we need One New Windows Desktop.
 * For that we will create Windows instance in AWS cloud.
